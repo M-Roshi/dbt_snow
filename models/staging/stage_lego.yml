@@ -1,0 +1,8 @@
+version : 2
+
+sources:
+  - name: source_snow
+    database: APEX_SANDBOX
+    schema: USER_SANDBOX 
+    tables: 
+      - name: lego_colors

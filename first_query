@@ -1,1 +1,0 @@
-select * from raw.tpch_sf100.orders
